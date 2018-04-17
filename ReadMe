@@ -1,0 +1,9 @@
+PYCHARM ile beraber kullanılacak programlar =>
+
+--MONGODB
+--pyMongo (Bunun için pycharm kütüphanesinden pymongo araması yeterli. Sonrasında import edilebilir.)
+--bson (Aynı şekilde kütüphaneden indirilmesi yeterli)
+
+Python üzerinden istediğimiz ekleme,silme,güncelleme ve listeleme işlerini gerçekleştirebiliriz.
+MongoDB tarafında yaptıgımız işlemlerden nedeyse farksız olan bu metotlar, rahatlıkla çalıştırılabilir.
+Verilerin yönetimini Robomongo isimli program üzerinden gerçekleştiriyor olacağız.
